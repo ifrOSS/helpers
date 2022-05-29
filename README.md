@@ -12,3 +12,12 @@ These tools need to be installed in one parent folder (eg. /home/scantools/)
 - scancode_toolkit
 - OpossumUI
 - opossum.lib.sh 
+
+
+Usage:
+
+Download scancode_to_opossum_helper.sh and use it like 
+
+  $ bash scancode_to_opossum_helper.sh 
+
+The tool will then guide you through the process.
